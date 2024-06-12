@@ -15,9 +15,6 @@ const App = () => {
 
 	return (
 		<div>
-			<header>
-				<h1>Hello World!</h1>
-			</header>
 			<Header />
 			<main>
 				<section id="core-concepts">
