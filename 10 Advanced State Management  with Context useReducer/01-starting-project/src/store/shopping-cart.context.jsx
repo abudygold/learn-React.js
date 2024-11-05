@@ -8,14 +8,6 @@ export const CartContext = createContext({
 });
 
 export const shoppingCartReducer = (state, action) => {
-	switch (key) {
-		case value:
-			break;
-
-		default:
-			break;
-	}
-
 	if (action.type === 'ADD_ITEM') {
 		const updatedItems = [...state.items];
 
